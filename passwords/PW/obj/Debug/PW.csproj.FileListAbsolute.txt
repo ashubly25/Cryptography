@@ -1,0 +1,16 @@
+c:\users\andy\documents\visual studio 2013\Projects\PW\PW\bin\Debug\PW.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\PW\PW\bin\Debug\PW.exe
+c:\users\andy\documents\visual studio 2013\Projects\PW\PW\bin\Debug\PW.pdb
+c:\users\andy\documents\visual studio 2013\Projects\PW\PW\obj\Debug\PW.exe
+c:\users\andy\documents\visual studio 2013\Projects\PW\PW\obj\Debug\PW.pdb
+c:\users\andy\documents\visual studio 2013\Projects\PW\PW\obj\Debug\PW.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\passwords\PW\bin\Debug\PW.exe.config
+C:\Users\Andy\Documents\GitHub\passwords\PW\obj\Debug\PW.exe
+C:\Users\Andy\Documents\GitHub\passwords\PW\obj\Debug\PW.pdb
+C:\Users\Andy\Documents\GitHub\passwords\PW\bin\Debug\PW.exe
+C:\Users\Andy\Documents\GitHub\passwords\PW\bin\Debug\PW.pdb
+C:\Users\Andy\Documents\GitHub\passwords\PW\obj\Debug\PW.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\passwords\PW\bin\Debug\PW.exe.manifest
+C:\Users\Andy\Documents\GitHub\passwords\PW\bin\Debug\PW.application
+C:\Users\Andy\Documents\GitHub\passwords\PW\obj\Debug\PW.exe.manifest
+C:\Users\Andy\Documents\GitHub\passwords\PW\obj\Debug\PW.application
