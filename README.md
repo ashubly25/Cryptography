@@ -6,3 +6,5 @@
 [Cryptsystem](https://github.com/ashubly25/Cryptography/tree/master/Cryptsystem)
 
 [Diffie-Hellman-Fibonacci](https://github.com/ashubly25/Cryptography/tree/master/Diffie%20Hellman%20Fibonacci)
+
+[Hashing](https://github.com/ashubly25/Cryptography/tree/master/passwords)
