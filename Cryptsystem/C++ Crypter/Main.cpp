@@ -28,20 +28,6 @@ either expressed or implied, of the FreeBSD Project.
 **/
 
 
-
-/**
- * Research:
- * http://stackoverflow.com/questions/20365005/c-xor-encryption
- * http://www.security.org.sg/code/loadexe.html
- * 
- * Credits:
- * -igitalNemesis
- * -Grigori Perelman
- * -MicroPenguin
- * -Original Unknown
- * */
-
-
 #pragma warning (disable:4996)
 #include <iostream>
 #include <Windows.h>
