@@ -1,5 +1,6 @@
 # Cryptography
- All of my Projects will be listed here are:-
+ This project is heavily based on curiosity of learning and implementing cryptography in a day-to-day practical basis.
+I managed to learn all of this through shorter and effective methodology. 
 
 [Basic Problems using hackerrank](https://github.com/ashubly25/Cryptography/tree/master/Basic)
 
